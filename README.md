@@ -5,7 +5,3 @@
 - 🔭 Actualmente estoy trabajando en generación de contenidos e-Learnig de Desarrollo web, principalmente en Moddle, para formadores y academias de formación. 
 
 - 🌱 Actualmente estoy cursando el Curso Superior de especialización en Desarrollo de videojuegos y Realidad Virtual.
-
-**Puedes contactar conmigo en:**
-
-(https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)[https://www.linkedin.com/in/soniaalvarezbrasa/]
