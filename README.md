@@ -8,8 +8,8 @@
 
 **Mi mundillo:**
 
-<img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" style="display:inline-block">
-<img alt="W3C" src="https://www.w3.org/Icons/WWW/w3c_home_nb-v.svg" width="50">
+<img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" style="display:inline-block;">
+<img alt="W3C" src="https://www.w3.org/Icons/WWW/w3c_home_nb-v.svg" width="50" style="display:inline-block;">
 <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50">
 <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50">
 <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40">
